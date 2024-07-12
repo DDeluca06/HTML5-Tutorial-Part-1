@@ -1,4 +1,4 @@
-# Concept 4: Literals
+# Concept 4: Literals & Emojis
 
 Adding Emojis to a site can me the site more appealing based on your audience. 
 Let's add emojis to the tabel for each program name. 
