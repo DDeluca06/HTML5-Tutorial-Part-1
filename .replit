@@ -1,0 +1,16 @@
+run = "vite"
+hidden = ["vite.config.js", ".config", ".tutorial", ".gitignore", "styles.css", "node_modules", "package.json", "package-lock.json", "index.html"]
+modules = ["nodejs-18", "web"]
+entrypoint = "Lessons/html-concept-checks.html" 
+
+[deployment]
+deploymentTarget = "static"
+build = ["npm", "run", "build"]
+publicDir = "dist"
+
+[nix]
+channel = "stable-23_05"
+
+[[ports]]
+localPort = 5173
+externalPort = 80
