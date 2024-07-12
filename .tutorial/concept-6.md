@@ -1,61 +1,50 @@
 # Concept 6: Input Controls
 
-Create the following input controls 
+Create input controls in HTML to allow users to enter data in a user-friendly and efficient way. Input controls can be categorized based on the type of data they handle, such as text, numbers, dates, etc. 
 
+Below are some common types of input controls:
+
+- **Text Input**: Allows the user to input a single line of text.
+- **Password Input**: Similar to text input but hides the entered characters.
+- **Radio Buttons**: Allows the user to select one option from a set of predefined options.
+- **Checkboxes**: Lets the user select multiple options from a set.
+- **Submit Button**: Submits the form data to the server for processing.
+- **Reset Button**: Resets all the input fields to their initial values.
+- **File Upload**: Allows the user to upload a file from their local device.
+
+Advanced input controls include sliders, date pickers, color pickers, and more. These enhance the user experience by providing more intuitive ways to input data.
+
+Using the table below,
+- [ ] Add the email input control to New Program App that will email the table data to the user.
+- [ ] Add a reset button to the calcuator  
 
 ### Other HTML Input Controls
-1. checkbox
-1. color
-1. date
-1. datetime-local
-1. email
-1. file
-1. hidden
-1. image
-1. month
-1. number
-1. password
-1. radio
-1. range
-1. reset
-1. search
-1. submit
-1. tel
-1. text
-1. time
-1. url
-1. week
+| Input Type       |                |
+|----------------- |----------------|
+| checkbox         | color          |
+| date             | datetime-local |
+| email            | file           |
+| hidden           | image          |
+| month            | number         |
+| password         | radio          |
+| range            | reset          |
+| search           | submit         |
+| tel              | text           |
+| time             | url            |
 
 
 ### Other HTML5 elements 
-```
-<address>
-<article>
-<aside>
-<blockquote>
-<canvas>
-<dd>
-<div>
-<dl>
-<dt>
-<fieldset>
-<figcaption>
-<figure>
-<footer>
-<form>
-<h1>-<h6>
-<header>
-<hr>
-<li>
-<main>
-<nav>
-<noscript>
-<ol>
-<p>
-<pre>
-<section>
-<table>
-<tfoot>
-<ul>
-<video>
-```
+
+ |  HTML5 Element Type   |    |     |
+ |----------------------|----------------------|----------------------|
+ | `<address>`          | `<article>`          | `<aside>`            |
+ | `<blockquote>`       | `<canvas>`           | `<dd>`               |
+ | `<div>`              | `<dl>`               | `<dt>`               |
+ | `<fieldset>`         | `<figcaption>`       | `<figure>`           |
+ | `<footer>`           | `<form>`             | `<h1>-<h6>`          |
+ | `<header>`           | `<hr>`               | `<li>`               |
+ | `<main>`             | `<nav>`              | `<noscript>`         |
+ | `<ol>`               | `<p>`                | `<pre>`              |
+ | `<section>`          | `<table>`            | `<tfoot>`            |
+ | `<ul>`               | `<video>`            |                      |
+
