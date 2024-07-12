@@ -1,1 +1,0 @@
-# Concept 9: Canvas Element (NLF)

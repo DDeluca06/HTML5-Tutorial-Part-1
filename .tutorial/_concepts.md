@@ -16,5 +16,12 @@ This tutorial walk you through a hands-on approach to the lessons. Use the navig
 ## Resources 
 Review [The Concept Rubric](https://docs.google.com/spreadsheets/d/1ZW8vC5D06Hp7T1sU-qP_3mJ8HqgP6QsR6ANKB5daTYU/edit?gid=1608238615#gid=1608238615)
 
+| Not Yet - 6 | Developing - 8 | Proficient - 10 | Advanced - 12 |
+|----------|----------|----------|----------|
+| I have not yet demonstrated an understanding of the concept. | I can demonstrate a basic understanding of the concept. | I can demonstrate an in-depth understanding of the concept. | I can demonstrate an extensive understanding of the concept by independently researching and utilizing concepts, not explictily taught. |
+| I have not yet applied the concept correctly. | I can apply these concepts in familiar situations. | I apply concepts in a variety of situations. | I can make intentional decisions about how to apply software tools and concepts to develop solutions in diverse and complex situations. |
+| I have not yet documented my work or my documentation is not logical. | I can document my work in a logical way. | I can provide documentation that is clear, logical, and free of errors. | I can provide clear, logical and detailed documentation of my solution and my thinking process. |
+| I have not yet created a working deliverable. | I can create a working deliverable. | I can create deliverables that demonstrate a high level of efficiency. | I can create deliverables that are optimized and efficient, aligning with industry standards for high performance and effective resource management. |
+
 If you need additonal concepts view the 
 [HTML Slides](https://docs.google.com/presentation/d/1HftVCxpVkV1KW24Bpotu38uHtv7Z5slP4XEYrnUXkLw/edit#slide=id.g276ec5622f1_0_0)
