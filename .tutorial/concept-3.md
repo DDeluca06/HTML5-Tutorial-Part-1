@@ -3,7 +3,7 @@
 In your existing project, let's add a few new elements `img`, `hr` & `input`
 ---
 
-## Create these elements
+## Update your project
 - [ ] Add a `section` tag with a nested `img` tag
 - [ ] add the `img` `src` attribute that points to the Launchpad logo found on the [LaunchpadPhilly.org](https://launchpadphilly.org/) website and the `alt` tag text of lp-logo-small.
 - [ ] Add a comment "Add a new program to the table"

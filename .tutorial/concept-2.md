@@ -3,7 +3,7 @@
 In your existing project, let's structure the page for a more convient layout by nesting the elements inside the main tag
 ---
 
-## Create these elements 
+## Update your project 
 - [ ] Create a comment above the `main` tag "Launchpad Programs App"
 - [ ] Move all the HTML tags into the main section
 - [ ] Add 4 `tr` tag inside the table tags

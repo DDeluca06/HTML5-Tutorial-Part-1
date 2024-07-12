@@ -22,7 +22,7 @@ in this lesson we will create several HTML elements:
 </html>
 ```
 
-## Create these elements inside the body tag
+## Update your project 
 - [ ] Add an HTML `main` tag  
 - [ ] Add an HTML `h1` tag and add text Learning HTML5.
 - [ ] Add an HTML `p` tag and add the text "The web foundatin is built on top of HTML, CSS and JavaScript." 
