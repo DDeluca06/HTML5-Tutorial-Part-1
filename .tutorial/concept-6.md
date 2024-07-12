@@ -15,8 +15,11 @@ Below are some common types of input controls:
 Advanced input controls include sliders, date pickers, color pickers, and more. These enhance the user experience by providing more intuitive ways to input data.
 
 Using the table below,
-- [ ] Add the email input control to New Program App that will email the table data to the user.
-- [ ] Add a reset button to the calcuator  
+- [ ] Anywhere in your project, Add a new section tag, give your section tag an id and class attribute
+- [ ] Add a comment above the date calender with the text Date Slider 
+- [ ] Add a date input and a range control below the comment inside this section tag.
+- [ ] Add all the attributes to the range slider and assign and initial value of 25% completed
+
 
 ### Other HTML Input Controls
 | Input Type       |                |
