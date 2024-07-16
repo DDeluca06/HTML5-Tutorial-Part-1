@@ -14,6 +14,7 @@ Below are some common types of input controls:
 
 Advanced input controls include sliders, date pickers, color pickers, and more. These enhance the user experience by providing more intuitive ways to input data.
 
+## Update your project 
 Using the table below,
 - [ ] Anywhere in your project, Add a new section tag, give your section tag an id and class attribute
 - [ ] Add a comment above the date calender with the text Date Slider 

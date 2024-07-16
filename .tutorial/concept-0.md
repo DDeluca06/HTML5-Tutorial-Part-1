@@ -2,8 +2,6 @@
 
 The basic structure of the website will have the all of the following elements.
 View a live example: [W3 Schools](https://w3schools.com)
----
-
 
 ```
 <!DOCTYPE html>

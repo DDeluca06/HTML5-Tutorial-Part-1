@@ -1,7 +1,6 @@
 # Concept 2: Nesting Elements 
 
 In your existing project, let's structure the page for a more convient layout by nesting the elements inside the main tag
----
 
 ## Update your project 
 - [ ] Create a comment above the `main` tag "Launchpad Programs App"

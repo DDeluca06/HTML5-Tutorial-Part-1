@@ -2,7 +2,7 @@
 
 If it is not open, open [HTML Concepts](/Lessons/html-concept-checks.html) in a new pane and paste the following code. 
 in this lesson we will create several HTML elements: 
----
+
 - Nesting Elements
 - Element Attributes
 - Void Elements 

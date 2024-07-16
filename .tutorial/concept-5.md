@@ -1,12 +1,9 @@
 # Concept 5 : Element Attributes 
  
 Adding Attributes to your HTML documents is crucial for ensuring that your web content is semantically accurate and accessible. Proper use of HTML5 tags leads to better SEO and enhanced accessibility, making your website more user-friendly and effective.
----
+
 
 In this section we'll add attributes to our project 
----
-
-## Update your project 
 
 | Attribute | Description |
 |-----------|-------------|
@@ -16,6 +13,7 @@ In this section we'll add attributes to our project
 | `alt`     | Alternative text for an image    |
 | `value`     | The value assigned to an input box    |
 
+## Update your project
 Using the table above add the id and class attributes to your project. Use a descriptive name that can be used later in programming logic. 
 
 #### elements 

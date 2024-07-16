@@ -1,8 +1,7 @@
 # Concept 4: Literals & Emojis
-
 Adding Emojis to a site can me the site more appealing based on your audience. 
 Let's add emojis to the tabel for each program name. 
----
+
 ## Introduction to Web Literals
 
 Web literals are constant values that are embedded directly within HTML, CSS, or JavaScript code. They can include strings, numbers, or other data types.
